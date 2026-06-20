@@ -1,6 +1,12 @@
 # 💫 About Me:
 👋Hello, I am YASH<br>🎓Currently, a 3rd yr IT Engg. student at DMCE (Mumbai University)<br>💻I am passionate about Frontend Development<br>📊Also learning Data Analytics as a skill<br>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashbhanawat_686) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bhanawat-496401330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.bhanawat06@gmail.com) 
